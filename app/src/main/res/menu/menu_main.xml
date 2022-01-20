@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="강의목록"
+        android:id="@+id/lectureListOption"/>
+
+    <item android:title="시간표"
+        android:id="@+id/timeTableOption"/>
+
+    <item
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="홈"
+        android:id="@+id/HomeOption"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/emptyLectureFindOption"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="빈강의실찾기" />
+
+    <item android:title="지도로 찾기"
+        android:id="@+id/fastFindOption"/>
+
+    <item android:title="로그아웃"
+        android:id="@+id/logoutOption"/>
+
+    <item android:title="회원탈퇴"
+        android:id="@+id/removeUser"/>
+
+</menu>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grade">
+        <item>1학년</item>
+        <item>2학년</item>
+        <item>3학년</item>
+    </string-array>
+
+    <string-array name="major">
+        <item>패션산업학과</item>
+        <item>토목공학과(학)</item>
+        <item>토목공학과</item>
+        <item>컴퓨터전자공학과(학)</item>
+        <item>컴퓨터전자공학과</item>
+        <item>컴퓨터응용전자과(야)</item>
+        <item>컴퓨터응용전자과</item>
+        <item>커뮤니케이션디자인학과(학)</item>
+        <item>커뮤니케이션디자인학과</item>
+        <item>중국어문화학과</item>
+        <item>정보통신공학과(학)</item>
+        <item>정보통신공학과(야)</item>
+        <item>정보통신공학과</item>
+        <item>전기공학과(학)</item>
+        <item>전기공학과</item>
+        <item>자산법률학과(학)</item>
+        <item>자산법률학과</item>
+        <item>유아교육학과(학)</item>
+        <item>유아교육학과(야)</item>
+        <item>유아교육학과</item>
+        <item>영화방송공연예술학과(학)</item>
+        <item>영화방송공연예술학과</item>
+        <item>연극영화학과(학)</item>
+        <item>연극영화학과</item>
+        <item>실내디자인학과(야)</item>
+        <item>실내디자인학과</item>
+        <item>식품영양학과(학)</item>
+        <item>식품영양학과</item>
+        <item>스마트자동차공학과(학)</item>
+        <item>스마트자동차공학과(야)</item>
+        <item>스마트자동차공학과</item>
+        <item>소프트웨어공학과(학)</item>
+        <item>소프트웨어공학과(야)</item>
+        <item>소프트웨어공학과</item>
+        <item>세무회계학과</item>
+        <item>생활가구디자인학과</item>
+        <item>생명화학공학과(학)</item>
+        <item>생명화학공학과</item>
+        <item>산업경영학과(학)</item>
+        <item>산업경영학과</item>
+        <item>사회복지학과(야)</item>
+        <item>사회복지학과</item>
+        <item>비즈니스중국어과</item>
+        <item>비즈니스일본어과</item>
+        <item>비즈니스영어과(야)</item>
+        <item>비즈니스영어과</item>
+        <item>미디어출판학과</item>
+        <item>레저스포츠학과(학)</item>
+        <item>레저스포츠학과</item>
+        <item>건축공학과(학)</item>
+        <item>건축공학과(야)</item>
+        <item>건축공학과</item>
+        <item>간호학과(학)</item>
+        <item>간호학과</item>
+        <!--<item>VMD전시디자인학과</item>-->
+    </string-array>
+    <string-array name="year">
+
+        <item>2020학년도</item>
+        <item>2021학년도</item>
+        <item>2022학년도</item>
+        <item>2023학년도</item>
+        <item>2024학년도</item>
+    </string-array>
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+    </string-array>
+    <string-array name="graduateArea">
+        <item>전공</item>
+    </string-array>
+    <string-array name="universityArea">
+        <item>전공</item>
+        <item>교양및기타</item>
+
+    </string-array>
+    <string-array name="graduateMajor">//학과 정보
+        <item>컴퓨터전자공학과</item>
+        <item>전기공학과</item>
+        <item>정보통신공학과</item>
+        <item>소프트웨어공학과</item>
+        <item>건축공학과</item>
+        <item>생명화학공학과</item>
+        <item>토목공학과</item>
+        <item>스마트자동차공학과</item>
+        <item>유아교육학과</item>
+        <item>자산법률학과</item>
+        <item>민족문화학과</item>
+        <item>비즈니스영어과</item>
+        <item>비즈니스일본어과</item>
+        <item>중국어문화학과</item>
+        <item>미디어출판학과</item>
+        <item>사회복지학과</item>
+        <item>세무회계학과</item>
+        <item>간호학과</item>
+        <item>식품영양학과</item>
+        <item>영화방송공연예술학과</item>
+        <item>패션산업학과</item>
+        <item>생활가구디자인학과</item>
+        <item>실내디자인학과</item>
+        <item>커뮤니케이션디자인학과</item>
+        <item>레저스포츠학과</item>
+        <item>VMD_전시디자인학과</item>
+        <item>영어교육학과</item>
+    </string-array>
+    <string-array name="universityRefinementMajor">//교양
+        <item>컴퓨터전자공학과</item>
+        <item>전기공학과</item>
+        <item>정보통신공학과</item>
+        <item>소프트웨어공학과</item>
+        <item>건축공학과</item>
+        <item>생명화학공학과</item>
+        <item>토목공학과</item>
+        <item>스마트자동차공학과</item>
+        <item>산업경영학과</item>
+        <item>유아교육학과</item>
+        <item>자산법률학과</item>
+        <item>민족문화학과</item>
+        <item>비즈니스영어과</item>
+        <item>비즈니스일본어과</item>
+        <item>중국어문화학과</item>
+        <item>미디어출판학과</item>
+        <item>사회복지학과</item>
+        <item>세무회계학과</item>
+        <item>간호학과</item>
+        <item>식품영양학과</item>
+        <item>영화방송공연예술학과</item>
+        <item>패션산업학과</item>
+        <item>생활가구디자인학과</item>
+        <item>실내디자인학과</item>
+        <item>커뮤니케이션디자인학과</item>
+        <item>레저스포츠학과</item>
+        <item>VMD_전시디자인학과</item>
+        <item>영어교육학과</item>
+
+    </string-array>
+    <string-array name="universityMajor">//모든 학부생들의 학과 정보
+        <item>컴퓨터전자공학과</item>
+        <item>전기공학과</item>
+        <item>정보통신공학과</item>
+        <item>소프트웨어공학과</item>
+        <item>건축공학과</item>
+        <item>생명화학공학과</item>
+        <item>토목공학과</item>
+        <item>스마트자동차공학과</item>
+        <item>인문사회계열</item>
+        <item>유아교육학과</item>
+        <item>자산법률학과</item>
+        <item>민족문화학과</item>
+        <item>비즈니스영어과</item>
+        <item>비즈니스일본어과</item>
+        <item>중국어문화학과</item>
+        <item>미디어출판학과</item>
+        <item>사회복지학과</item>
+        <item>세무회계학과</item>
+        <item>간호학과</item>
+        <item>식품영양학과</item>
+        <item>영화방송공연예술학과</item>
+        <item>패션산업학과</item>
+        <item>생활가구디자인학과</item>
+        <item>실내디자인학과</item>
+        <item>커뮤니케이션디자인학과</item>
+        <item>레저스포츠학과</item>
+        <item>VMD_전시디자인학과</item>
+        <item>영어교육학과</item>
+    </string-array>
+
+    <string-array name="rank">
+        <item>전체에서</item>
+        <item>우리과에서</item>
+        <item>남자 선호도</item>
+        <item>여자 선호도</item>
+        <item>전공 인기도</item>
+        <item>교양 인기도</item>
+    </string-array>
+
+    <string-array name="builName">
+        <item>호천관</item>
+        <item>세종관</item>
+        <item>서일관</item>
+        <item>지덕관</item>
+        <item>누리관</item>
+        <item>배양관</item>
+        <item>특별실습실</item>
+    </string-array>
+
+    <string-array name="floor">
+        <item>1층</item>
+        <item>2층</item>
+        <item>3층</item>
+        <item>4층</item>
+        <item>5층</item>
+        <item>6층</item>
+        <item>7층</item>
+        <item>8층</item>
+        <item>9층</item>
+        <item>10층</item>
+        <item>11층</item>
+    </string-array>
+    <string-array name="specialactroom">
+        <item>컴퓨터실</item>
+        <item>조리실습실</item>
+        <item>간호실습실</item>
+    </string-array>
+</resources>

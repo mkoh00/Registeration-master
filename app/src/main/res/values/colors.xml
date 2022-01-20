@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#039BE5</color>
+    <color name="colorPrimaryDark">#0277BD</color>
+    <color name="colorAccent">#546E7A</color>
+    <color name="colorWarning">#ED00CB</color>
+    <color name="colorValidate">#FF5847</color>
+    <color name="colorGray">#8C8C8C</color>
+    <color name="colorDanger">#FF5873</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorSafe">#69BFBF</color>
+    <color name="colorWinner">#FFD9D8</color>
+    <color name="colorBackground">#F2EAE4</color>
+    <color name="psts_background_tab_pressed">#1AFFFFFF</color>
+    <color name="psts_background_tab_pressed_ripple">#AAFFFFFF</color>
+    <color name="colorWhite">#ffffff</color>
+
+</resources>
