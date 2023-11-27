@@ -25,9 +25,10 @@
         />
 
     <TextView
+        android:id="@+id/tv_app_version"
         android:drawableStart="@drawable/ic_build_black_24dp"
         android:drawableLeft="@drawable/ic_build_black_24dp"
-        android:text=" 어플리케이션 정보 : 0.1 Ver"
+        android:text=" 어플리케이션 정보 : 1.0 Ver"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
@@ -59,7 +60,7 @@
     <TextView
         android:drawableStart="@drawable/ic_public_black_24dp"
         android:drawableLeft="@drawable/ic_public_black_24dp"
-        android:text="학교 홈페이지 : http://hm.seoil.ac.kr/"
+        android:text=" 학교 홈페이지 : http://hm.seoil.ac.kr/"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
@@ -151,101 +152,6 @@
 
                 </LinearLayout>
 
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginTop="20dp"
-                    android:layout_marginLeft="20dp"
-                    android:layout_marginRight="15dp"
-                    android:layout_marginBottom="15dp"
-                    android:orientation="horizontal">
-
-                    <com.cookandroid.registeration.ui.custom.CircleImageView
-                        android:src="@drawable/junghyun"
-                        android:id="@+id/imageView"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp"
-                        app:civ_border_color="@color/colorPrimary"
-                        app:civ_border_width="2dp"/>
-
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="20dp"
-                        android:orientation="vertical">
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:text="유정현"
-                            android:textStyle="bold"
-                            android:textColor="@color/colorPrimaryDark"
-                            android:textSize="17dp"/>
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:text="소프트웨어공학과 16학번"
-                            android:textColor="@color/colorPrimaryDark"
-                            android:textSize="15dp"/>
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:text="dlanrl0109@naver.com"
-                            android:textColor="@color/colorPrimaryDark"
-                            android:textSize="15dp"/>
-                    </LinearLayout>
-
-                </LinearLayout>
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginTop="20dp"
-                    android:layout_marginLeft="20dp"
-                    android:layout_marginRight="15dp"
-                    android:layout_marginBottom="15dp"
-                    android:orientation="horizontal">
-
-                    <com.cookandroid.registeration.ui.custom.CircleImageView
-                        android:src="@drawable/jung1"
-                        android:id="@+id/imageView"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp"
-                        app:civ_border_color="@color/colorPrimary"
-                        app:civ_border_width="2dp"/>
-
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="20dp"
-                        android:orientation="vertical">
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:text="김재준"
-                            android:textStyle="bold"
-                            android:textColor="@color/colorPrimaryDark"
-                            android:textSize="17dp"/>
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:text="소프트웨어공학과 16학번"
-                            android:textColor="@color/colorPrimaryDark"
-                            android:textSize="15dp"/>
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:text="vkdlsjf71@naver.com"
-                            android:textColor="@color/colorPrimaryDark"
-                            android:textSize="15dp"/>
-                    </LinearLayout>
-
-                </LinearLayout>
             </LinearLayout>
 
         </ScrollView>
